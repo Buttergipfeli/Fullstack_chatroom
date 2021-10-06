@@ -1,0 +1,70 @@
+.noSmoothedButton {
+    width: 100%;
+    margin-bottom: 1%;
+    border-radius: 0 !important;
+}
+
+/* messages */
+.lowerSpace {
+    margin-bottom: 10px;
+}
+
+/* header */
+.header {
+    padding: 10px 16px;
+    background: #b1a48c;
+    color: #000000;
+  }
+  
+  .title {
+      text-align: left;
+      margin-left: 1rem;
+      display: inline;
+  }
+
+  .homeTitle {
+    text-align: left;
+    display: inline;
+  }
+
+  .dropdownHeader {
+      float: right;
+      margin-top: -1%;
+  }
+
+  .content {
+    padding: 16px;
+  }
+  
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 93.5%
+  }
+  
+  .sticky + .content {
+    padding-top: 102px;
+  }
+
+  /* FooterText */
+.footerNavBar{
+    position: fixed;
+    background-color: #ffffff;
+    bottom: 0;
+    left: 6.5%;
+    width: 93.5%;
+  }
+
+.pushUp {
+    margin-top: 6rem;
+}
+
+.backLogo {
+    width: 5%;
+    margin-top: -3%;
+}
+
+/* Home */
+.errorValidation {
+    color: red;
+}
